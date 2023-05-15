@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nakkungu
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning visual studio, R, and python
+- I currenty work using SQL, Tableau and PowerBI
 - 💞️ I’m looking to collaborate on coding and data analysis
 - 📫 you can reach me at angella.nakkungu@outlook.com
 
