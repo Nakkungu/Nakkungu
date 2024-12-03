@@ -1,3 +1,5 @@
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674187bc5434bf319a612f0f?variant=dark" alt="roadmap.sh"/></a>
+
 - 👋 Hi, I’m @Nakkungu
 - 👀 I’m a data analyst
 - 🌱 I’m proficient in R and Python
