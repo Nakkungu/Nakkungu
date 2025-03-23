@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m @Nakkungu
-- 👀 I’m a data analyst
+- 👀 I love data analysis
 - 🌱 I’m proficient in R and Python
 - I currenty work using SQL, Tableau and PowerBI
 - 💞️ I’m looking to collaborate on coding and data analysis
