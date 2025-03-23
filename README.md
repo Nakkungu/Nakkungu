@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Nakkungu
 - 👀 I love data analysis
 - 🌱 I’m proficient in R and Python
-- I currenty work using SQL, Tableau and PowerBI
+- I currenty use SQL, Tableau and PowerBI as well as python
 - 💞️ I’m looking to collaborate on coding and data analysis
 - 📫 you can reach me at angella.nakkungu@outlook.com
 
